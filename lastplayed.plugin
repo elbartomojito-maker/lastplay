@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Extension
+Name=Last Played
+Comment=Shows the last played track in Rhythmbox
+Exec=python3 /usr/share/rhythmbox/plugins/last_played/rb_last_played.py
+Icon=last_played
+X-GNOME-Autostart-enabled=true
